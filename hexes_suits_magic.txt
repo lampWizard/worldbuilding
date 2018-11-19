@@ -1,0 +1,47 @@
+Hexes and Suits
+
+	  # # #
+	 # # # #
+	# # # # #
+	 # # # #
+	  # # #
+	  
+	
+
+	EXTERNALIZATION
+	
+	Externalization is the term given to the magic force that exists in this 
+	world. Externalization serves one general purpose: to influence this reality
+	from outside of itself, rather than within itself. In other words, users who
+	practice externalization are able to conjure up power and ability that go 
+	beyond reality's limits. There are four distinct ways to 'externalize':
+		
+		Stimulate: this type of externalization focuses on "speeding" up an object
+			or for a user, as well as (if the user is sentient) increasing focus
+			and dexterity.
+			
+			+dexterity
+			+speed
+			+focus
+			+urgency
+			
+		Depress:
+			
+			+slow
+			+calm
+			+control
+			+finesse
+			
+		Euphoria:
+		
+			+pacify
+			+intensify
+			+relax
+			+motivate
+			
+		Hallucinate:
+		
+			+disassociate
+			+influence
+			+anxiety
+			+investigate
