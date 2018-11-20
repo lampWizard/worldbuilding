@@ -1,0 +1,32 @@
+Hexes and Suits
+
+	  # # #
+	 # # # #
+	# # # # #
+	 # # # #
+	  # # #
+	  
+
+	PLANET 
+	
+	The planet of Kasser IV is the primordial home of humans,
+	an intelligent and social species that has been recently struggling
+	with spreading into space. 
+	
+	Kasser IV is currently a patchwork of various huge, terrifying metropolis
+	scattered over barren wastelands. Much of the agricultural production
+	is actually done in the megacities themselves, being able to produce
+	more than enough food for its population--usually--out of necessity.
+	The accessible and fairly calm areas of the wasteland have been converted
+	into solar farms to help supply the planet's energy consumption.
+	
+	Although settlements and humans do exist and live outside of the cities,
+	it is very rare for it to be the case. The planet itself is split into
+	three main continents: Kaade, Adrallechia, and Cassin. Adrallechia is 
+	not attached to the other two continents, which share a mountain range,
+	but is rather the largest, separate land mass on Kasser IV. A harsh,
+	domineering desert lies in Kaade and Adrallechia, while Cassin is home
+	to many wastelands from centuries and decades old conflicts. Whatever
+	groups manage to live outside of cities tend to be small and tenacious: 
+	be they a smatter of religious sects, archaic cultural societies, 
+	rebellious factions, or even criminal gangs.
