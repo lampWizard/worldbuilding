@@ -50,13 +50,19 @@ Hexes and Suits
 	individual is able to tap into the well of an outsider or observer. There
 	are two different types of observers: judges, and developers.
 		
-		Judge:
+		Judge: this type of observer deals with interpreting reality--the judge
+			comes after the developer in the hierarchy of observers, because its focus
+			is not to create or destroy matter but rather interpret it: giving it
+			actual qualities, and functions. 
 		
 		+interprets reality
 			+quantifies objects ♣
 			+qualifies objects ♦
 			
-		Developer:
+		Developer: this type of observer deals with pulling things into and out of
+			reality--the developer comes before the judge in the hierarchy of observers,
+			because in order for an object to be judged or interpreted, it must be created
+			or destroyed; matter is given form and shaped by this observer.
 			
 		+creates and destroys pieces of reality
 			+"develops", giving form and function to matter over time ♥
