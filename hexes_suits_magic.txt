@@ -45,3 +45,19 @@ Hexes and Suits
 			+influence
 			+anxiety
 			+investigate
+			
+	Full externalization is the "peak" of externalization, the moment an
+	individual is able to tap into the well of an outsider or observer. There
+	are two different types of observers: judges, and developers.
+		
+		Judge:
+		
+		+interprets reality
+			+quantifies objects ♣
+			+qualifies objects ♦
+			
+		Developer:
+			
+		+creates and destroys pieces of reality
+			+"develops", giving form and function to matter over time ♥
+			+"decays", matter that has been developed previously decays over time ♠
